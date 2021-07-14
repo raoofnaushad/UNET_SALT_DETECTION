@@ -3,7 +3,7 @@
 You can download the dataset from Kaggle Deep Learning Competition - [TGS Salt Identification Challenge](https://www.kaggle.com/c/tgs-salt-identification-challenge/data)
 
 For more details about the implementation checkout the blog :
-[UNET for Semantic Segmentation - Implementation from Scratch](https://medium.com/@raoofnaushad7/indian-dance-forms-hacker-earth-image-classification-using-transfer-learning-and-tuning-with-b6cbe7a0fc78)
+[UNET for Semantic Segmentation - Implementation from Scratch](https://raoofnaushad7.medium.com/unet-for-semantic-segmentation-implementation-from-scratch-26e043fdcffa)
 
 For implementation:
 * Install requirements.txt
